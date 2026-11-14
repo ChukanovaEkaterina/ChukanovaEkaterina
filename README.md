@@ -13,7 +13,7 @@
 
 ## 🧪 Дипломный проект
 
-Эти проекты были выполнены во время обучения в школе автоматизации тестирования [QA.GURU](https://qa.guru/).
+Проекты были выполнены во время обучения в школе автоматизации тестирования [QA.GURU](https://qa.guru/).
 
 ### 📱 [Mobile Tests — Wikipedia](https://github.com/ChukanovaEkaterina/Mobile-Tests-Wikipedia)
 
